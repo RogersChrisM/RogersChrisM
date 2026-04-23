@@ -1,16 +1,19 @@
-## Hi there 👋
+# Christopher M. Rogers
+**PhD Candidate | Genomics & Data Science | Python · BASH**
 
-<!--
-**RogersChrisM/RogersChrisM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+6th-year PhD candidate in Biomedical Sciences at UTHSC, conducting 
+dissertation research at St. Jude Children's Research Hospital. 
+Self-taught programmer building computational tools for large-scale 
+NGS data analysis.
 
-Here are some ideas to get you started:
+Currently pursuing PMP certification. Targeting roles in defense 
+analytics and data science after graduation (December 2025).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Projects
+- [HATkit](https://github.com/RogersChrisM/HATKit) — Python toolkit 
+  extending HemTools diffPeak pipeline outputs
+- [AdminTools](https://github.com/RogersChrisM/AdminTools) — BASH 
+  workflow automation and script management utilities
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/christopher-rogers-539813143)
