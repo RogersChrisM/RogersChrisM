@@ -7,7 +7,7 @@ Self-taught programmer building computational tools for large-scale
 NGS data analysis.
 
 Currently pursuing PMP certification. Targeting roles in defense 
-analytics and data science after graduation (December 2025).
+analytics and data science after graduation (December 2026).
 
 ## 🔧 Projects
 - [HATkit](https://github.com/RogersChrisM/HATKit) — Python toolkit 
